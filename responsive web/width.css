@@ -1,0 +1,70 @@
+
+
+*{
+margin: 0;
+font-family: 'Poppins', sans-serif;
+}
+
+nav{
+    background-color:#2e354f ;
+    color: white;
+    padding: 45px 0; 
+}
+nav h2{
+    text-align: center;
+
+}
+section{
+    padding: 45px 0;
+}
+
+.container{
+    width: 70%;
+    margin: 0 auto;
+    border: 2px solid magenta;
+}
+
+.container img{
+    width: 100%;
+    padding-bottom: 30px;
+    max-width: 620px;
+
+}
+
+section h1{
+   color: tomato;
+   padding-bottom: 30px;
+}
+
+.footer{
+    background-color:#2e354f ;
+    width: 100%;
+    color: white;
+    
+}
+
+button{
+    width: 90px;
+    height: 30px;
+    font-weight: bold;
+}
+
+.btn1{
+    color: white;
+    background-color: tomato;
+    border: none;
+    cursor: pointer;
+}
+
+
+.btn2{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+
+.foot{
+
+    padding-left: 20px;
+}
